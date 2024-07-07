@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Draggable_Assignment/static/css/main.f05c940d.css",
+    "main.js": "/Draggable_Assignment/static/js/main.ddf76d74.js",
+    "index.html": "/Draggable_Assignment/index.html",
+    "main.f05c940d.css.map": "/Draggable_Assignment/static/css/main.f05c940d.css.map",
+    "main.ddf76d74.js.map": "/Draggable_Assignment/static/js/main.ddf76d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05c940d.css",
+    "static/js/main.ddf76d74.js"
+  ]
+}
